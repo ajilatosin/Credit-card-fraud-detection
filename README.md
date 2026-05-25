@@ -38,15 +38,15 @@ The model was trained on the Kaggle Credit Card Fraud Detection dataset and opti
 
 ## Streamlit Dashboard - Overview
 
-![Dashboard Overview](assets/dashboard_overview.png)
+  <img src="Dashboard1.png" width="200"/>
 
 ## Streamlit Dashboard - Prediction Page
 
-![Prediction Page](assets/prediction_page.png)
+  <img src="Dashboard2.png" width="200"/>
 
 ## Model Visualization & Analytics
 
-![Model Visualization](assets/model_visualization.png)
+  <img src="Eda.png" width="200"/>
 
 ---
 
