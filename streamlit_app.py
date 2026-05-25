@@ -9,6 +9,7 @@ from datetime import datetime
 import os
 import time
 
+
 # ── Page Config ────────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="FraudShield | Detection System",
