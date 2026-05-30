@@ -10,7 +10,7 @@
 
 ### End-to-End Machine Learning Fraud Detection Application
 
-Detect fraudulent credit card transactions in real time using a production-ready machine learning system powered by Random Forest, FastAPI, and Streamlit.
+Detect fraudulent credit card transactions in real time using a production-ready machine learning system powered by Random Forest, FastAPI, and Streamlit..
 
 [Live Demo](https://ajilatosin-credit-card-fraud-detection.hf.space)
 
